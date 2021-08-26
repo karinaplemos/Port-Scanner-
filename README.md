@@ -1,6 +1,6 @@
 # Port-Scanner-TCP
 
-Trabalho de implementação em grupo realizado para a Disciplina de Redes de Computadores. 
+Trabalho de implementação em grupo realizado para a Disciplina de Redes de Computadores - Semestre 2021.1. 
 O objetivo do trabalho é desenvolver um Port Scanner simplificado que consiga categorizar as portas de um host alvo em três classes: **aberta**, **filtrada** e **fechada**.
 
 ### Integrantes do grupo
